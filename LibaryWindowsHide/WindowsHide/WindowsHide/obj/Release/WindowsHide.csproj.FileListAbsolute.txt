@@ -1,0 +1,5 @@
+A:\Nocz\Proyectos\Libraries\WindowsHide\WindowsHide\WindowsHide\bin\Release\WindowsHide.dll
+A:\Nocz\Proyectos\Libraries\WindowsHide\WindowsHide\WindowsHide\bin\Release\WindowsHide.pdb
+A:\Nocz\Proyectos\Libraries\WindowsHide\WindowsHide\WindowsHide\obj\Release\WindowsHide.csproj.CoreCompileInputs.cache
+A:\Nocz\Proyectos\Libraries\WindowsHide\WindowsHide\WindowsHide\obj\Release\WindowsHide.dll
+A:\Nocz\Proyectos\Libraries\WindowsHide\WindowsHide\WindowsHide\obj\Release\WindowsHide.pdb

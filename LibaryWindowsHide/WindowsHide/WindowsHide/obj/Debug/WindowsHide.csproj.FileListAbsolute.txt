@@ -1,0 +1,23 @@
+C:\Users\HGMI2\Desktop\WindowsHide\WindowsHide\WindowsHide\bin\Debug\WindowsHide.dll
+C:\Users\HGMI2\Desktop\WindowsHide\WindowsHide\WindowsHide\bin\Debug\WindowsHide.pdb
+C:\Users\HGMI2\Desktop\WindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.csprojAssemblyReference.cache
+C:\Users\HGMI2\Desktop\WindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.csproj.CoreCompileInputs.cache
+C:\Users\HGMI2\Desktop\WindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.dll
+C:\Users\HGMI2\Desktop\WindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.pdb
+C:\Users\HGMI2\Desktop\Libraries\WindowsHide\WindowsHide\WindowsHide\bin\Debug\WindowsHide.dll
+C:\Users\HGMI2\Desktop\Libraries\WindowsHide\WindowsHide\WindowsHide\bin\Debug\WindowsHide.pdb
+C:\Users\HGMI2\Desktop\Libraries\WindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.csprojAssemblyReference.cache
+C:\Users\HGMI2\Desktop\Libraries\WindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.csproj.CoreCompileInputs.cache
+C:\Users\HGMI2\Desktop\Libraries\WindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.dll
+C:\Users\HGMI2\Desktop\Libraries\WindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.pdb
+A:\Nocz\Proyectos\Libraries\WindowsHide\WindowsHide\WindowsHide\bin\Debug\WindowsHide.dll
+A:\Nocz\Proyectos\Libraries\WindowsHide\WindowsHide\WindowsHide\bin\Debug\WindowsHide.pdb
+A:\Nocz\Proyectos\Libraries\WindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.csprojAssemblyReference.cache
+A:\Nocz\Proyectos\Libraries\WindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.csproj.CoreCompileInputs.cache
+A:\Nocz\Proyectos\Libraries\WindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.dll
+A:\Nocz\Proyectos\Libraries\WindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.pdb
+A:\Nocz\Proyectos programación C#\LibaryWindowsHide\WindowsHide\WindowsHide\bin\Debug\WindowsHide.dll
+A:\Nocz\Proyectos programación C#\LibaryWindowsHide\WindowsHide\WindowsHide\bin\Debug\WindowsHide.pdb
+A:\Nocz\Proyectos programación C#\LibaryWindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.csprojAssemblyReference.cache
+A:\Nocz\Proyectos programación C#\LibaryWindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.dll
+A:\Nocz\Proyectos programación C#\LibaryWindowsHide\WindowsHide\WindowsHide\obj\Debug\WindowsHide.pdb
